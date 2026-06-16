@@ -1,0 +1,6 @@
+{
+  "name": "South African Mental Health Assistant",
+  "description": "An empathetic, non-judgmental mental health awareness assistant that listens, provides coping mechanisms for stress and anxiety in South Africa, and connects users to professional helpline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
